@@ -2,16 +2,19 @@
 
 This repository hosts the public privacy policy for the Universe TV Android IPTV player.
 
-The live policy page is published with GitHub Pages at:
+The public policy page is available as a rendered GitHub document at:
 
-<https://untv22-dev.github.io/universe-tv-privacy-policy/>
+<https://github.com/untv22-dev/universe-tv-privacy-policy/blob/main/PRIVACY_POLICY.md>
 
-The policy is available in Arabic with an English summary. It describes local handling of IPTV connection settings, local playback preferences, optional voice search, network access, and the role of the user-selected IPTV provider.
+This link is public, uses HTTPS, and can be used in Google Play Console. The policy is available in Arabic with an English summary. It describes local handling of IPTV connection settings, local playback preferences, optional voice search, network access, and the role of the user-selected IPTV provider.
+
+An HTML copy is also included in `index.html` for future static hosting.
 
 ## Files
 
-- `index.html` — public privacy policy page.
-- `.nojekyll` — keeps GitHub Pages delivery simple for this static page.
+- `PRIVACY_POLICY.md` — primary rendered privacy policy link.
+- `index.html` — standalone HTML copy for future hosting.
+- `.nojekyll` — included for static hosting compatibility.
 
 ## Contact
 
